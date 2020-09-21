@@ -5,6 +5,7 @@ Pink
 Orange 
 Blue
 Green
+Indigo
 Unicorn
 These are the colors of the rainbow
 And the unicoen
